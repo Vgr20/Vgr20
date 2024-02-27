@@ -2,7 +2,7 @@
 - 👀 Interested in Signal Processing , Computer Vision and Machine Learning
 - 🌱 Undergratuate @ Dept. of Electronics and Telecommunication Engineering , University of Moratuwa
 - 📫 reach me via E-Mail : vishagara.20@uom.lk
-- Amateur Enclosure designer, programmer & app developer
+- Machine Learning Enthusiast 👨🏻‍💻
 
 <!---
 Vgr20/Vgr20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
